@@ -31,7 +31,7 @@ int main()
     }
     else
     {
-        printf("yablis deger girdiniz");
+        printf("yanlis deger girdiniz");
     }
     return 0;
 }
